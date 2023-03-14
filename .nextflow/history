@@ -1,0 +1,6 @@
+2023-03-14 08:15:34	3.2s	furious_pesquet	ERR	97f50cc5d8b7960c25e9415f562b5996	320d20b1-87cc-485e-ba29-a093ec7a9d48	nextflow -log /logs run main.nf -with-docker
+2023-03-14 08:18:19	-	pedantic_meucci	-	6229ac5dd723338766a66ef91249e2e7	15f00113-b4cd-40e7-a2c6-76853e07ac57	nextflow -log /logs run modules.hello.nf
+2023-03-14 08:19:17	1.2s	loving_cantor	OK	e9d3a84a806e0cfedd7df55ffe990f62	dbc0fd8a-89f7-475a-8903-21b2afda07c7	nextflow -log /logs run hello.nf
+2023-03-14 08:20:00	2.2s	small_bohr	ERR	97f50cc5d8b7960c25e9415f562b5996	76f527ac-c0f8-4c59-8ffa-4492e1cdb6dc	nextflow -log /logs run main.nf -with-docker
+2023-03-14 08:21:52	2.2s	ridiculous_hamilton	ERR	97f50cc5d8b7960c25e9415f562b5996	eda04d33-7c92-4f3b-aba0-2689a5b39723	nextflow -log /logs run main.nf -with-docker
+2023-03-14 08:33:08	13.3s	mighty_avogadro	OK	97f50cc5d8b7960c25e9415f562b5996	7ddcb12c-fe68-4149-8ab4-efc70f31ae11	nextflow -log /logs run main.nf -with-docker
